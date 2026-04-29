@@ -16,4 +16,7 @@ Uso intuitivo. Basta inserrir a URL desejada para a nova guia e confirmar.
 6. Verifique se a extensão aparece na lista e está ativada.
 
 
+
 ---
+
+Em breve uma versão para navegadores baseados em FireFox será lançada.
