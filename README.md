@@ -4,7 +4,7 @@ Personalize a nova guia de navegadores baseados em Chromium (Google Chrome, Edge
 
 Uso intuitivo. Basta inserrir a URL desejada para a nova guia e confirmar.
 
-## Instalar extensão (não empacotada) em navegadores Chromium — instruções rápidas
+### Instalar extensão (não empacotada) em navegadores Chromium — instruções rápidas
 
 1. Abra o navegador Chromium (Chrome, Edge, Brave, etc.).
 2. Vá para a página de extensões:
