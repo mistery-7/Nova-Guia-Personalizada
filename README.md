@@ -14,3 +14,6 @@ Uso intuitivo. Basta inserrir a URL desejada para a nova guia e confirmar.
 4. Clique em Carregar sem compactação (Load unpacked).
 5. Selecione a pasta da extensão (a pasta já pronta contendo o manifest.json).
 6. Verifique se a extensão aparece na lista e está ativada.
+
+
+---
